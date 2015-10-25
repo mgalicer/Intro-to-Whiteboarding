@@ -1,1 +1,1 @@
-Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+Write a method that determines if a string has all unique characters. The output should be a boolean.
